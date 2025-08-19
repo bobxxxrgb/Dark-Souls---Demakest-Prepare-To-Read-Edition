@@ -19,4 +19,8 @@ and you could imagine the predicament in that, if you take a glance of what earl
 saving functions looked like in this server old builds repo.
 if my noobness is taking the best of me i would love for you to take me up to date on that.
 
+
+Also, "permission denied" error in the terminal can be fixed by right click on the game,
+properties, permission, ckeck the box about executing this file as a program.
+
 regardless, enjoy. :==)
