@@ -30,4 +30,19 @@ track the executable in your task manager and close it if you double clicked it 
 or else it will continue to mess up the aformentioned saves folder running in the background,
 tap enter and you're on board.
 
+i thought it could have been a nice inclusion to drop you
+the source code for all my non paid labout thus far,
+since c++ is a pretty basic lenguage and i couldnt possibly
+have the skills to come up with something homebrew that i could
+have interests in keeping private, and this source code
+could lead to someone even less handy than me to get up and
+running on their feet.
+but from this build on i won't include the source code anymore
+because i'm willing to include some cool stuff as a secret for
+you to find directly in game, it wouldnt be funny if you read it
+in the souce code, right?
+for all two of you, just take a glance at what you could expect
+from this project, for now.
+be jolly. do cooperation. don't you dare go hollow.
+
 if this project starts to draw serious interest on me i'm running naked for a mile.
