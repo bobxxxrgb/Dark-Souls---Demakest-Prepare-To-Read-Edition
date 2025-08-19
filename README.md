@@ -15,6 +15,8 @@ user will be named in order to implement it to my script, and i could not retrie
 code from the world wide web capable of just saving multiple folders with multiple files
 in the current folder of the program, ifstream and ofstream could only read and write
 files directly in the current folder, no subfolders allowed there.
+and you could imagine the predicament in that, if you take a glance of what early
+saving functions looked like in this server old builds repo.
 if my noobness is taking the best of me i would love for you to take me up to date on that.
 
 regardless, enjoy. :==)
