@@ -1817,7 +1817,7 @@ system("clear");
 segue=cin.get();
 
 system("clear");
-cout<<"In the Age of Ancient,"<<endl<<"The world was unformed";
+cout<<"In the Age of Ancients,"<<endl<<"The world was unformed";
 cout<<endl<<endl<<"(press Enter to continue)";
 segue=cin.get();
 
