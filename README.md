@@ -43,6 +43,7 @@ you to find directly in game, it wouldnt be funny if you read it
 in the souce code, right?
 for all two of you, just take a glance at what you could expect
 from this project, for now.
+
 be jolly. do cooperation. don't you dare go hollow.
 
 if this project starts to draw serious interest on me i'm running naked for a mile.
